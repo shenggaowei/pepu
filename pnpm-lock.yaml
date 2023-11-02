@@ -8,10 +8,12 @@ importers:
 
   .: {}
 
-  packages/a: {}
+  packages/components: {}
 
-  packages/b:
+  packages/hooks:
     dependencies:
-      '@summitsum/a':
+      '@summitsum/components':
         specifier: workspace:^
-        version: link:../a
+        version: link:../components
+
+  packages/utils: {}
