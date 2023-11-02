@@ -1,5 +1,5 @@
 {
-  "name": "@summitsum/b",
+  "name": "@summitsum/components",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,5 @@
   "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@summitsum/a": "workspace:^"
-  }
+  "license": "ISC"
 }
