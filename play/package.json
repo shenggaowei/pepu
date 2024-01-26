@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@summitsum/components": "workspace:^"
+    "pepu": "workspace:^"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",

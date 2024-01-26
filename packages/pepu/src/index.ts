@@ -1,5 +1,5 @@
 import type { App, Plugin } from "vue";
-import _Button from "./index.vue";
+import _Pepu from "./index.vue";
 
 type SFCWithInstall<T> = T & Plugin;
 
@@ -12,6 +12,6 @@ const withInstall = <T>(comp: T) => {
     return comp as SFCWithInstall<T>;
 };
 
-export const Button = withInstall(_Button);
-export default Button;
+export const Pepu = withInstall(_Pepu);
+export default Pepu;
 

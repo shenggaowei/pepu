@@ -1,6 +1,6 @@
 <template>
   <div>
-    <sum-button type="primary">ceshi</sum-button>
+    <pepu />
   </div>
 </template>
 
