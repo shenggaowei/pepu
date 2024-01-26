@@ -1,6 +1,5 @@
 {
   "name": "pepu",
-  "private": true,
   "description": "powerful export pdf utils",
   "version": "1.0.0",
   "type": "module",
